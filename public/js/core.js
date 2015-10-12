@@ -1,0 +1,1 @@
+angular.module('MainModule',['main.services','main.controllers']);
