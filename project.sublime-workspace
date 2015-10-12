@@ -1,0 +1,408 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"pass",
+				"password"
+			],
+			[
+				"sc",
+				"Schema"
+			],
+			[
+				"tes",
+				"testData"
+			],
+			[
+				"cont",
+				"contactlist"
+			],
+			[
+				"per",
+				"person3"
+			],
+			[
+				"pers",
+				"person2"
+			],
+			[
+				"perso",
+				"person1"
+			],
+			[
+				"th",
+				"th	Tag"
+			],
+			[
+				"e",
+				"entryText"
+			],
+			[
+				"num",
+				"numOfDays"
+			],
+			[
+				"mouse",
+				"mousedown"
+			],
+			[
+				"curr",
+				"currentPercent"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"pro",
+				"progress"
+			],
+			[
+				"get",
+				"getPercentage"
+			],
+			[
+				"max",
+				"maxValue"
+			],
+			[
+				"font-w",
+				"font-weight"
+			],
+			[
+				"text-",
+				"text-align"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"fu",
+				"futureDate"
+			],
+			[
+				"currentti",
+				"currentTime"
+			],
+			[
+				"marker",
+				"markerTime"
+			],
+			[
+				"date",
+				"Date"
+			],
+			[
+				"bac",
+				"background-image"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 104.0,
+		"last_filter": "install",
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"pac",
+				"Preferences: Browse Packages"
+			],
+			[
+				"javasc",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"packa",
+				"Preferences: Browse Packages"
+			]
+		],
+		"width": 416.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/D/GitHub/mdashboard"
+	],
+	"file_history":
+	[
+		"/D/Private/Projects/NodeJs/DefaultApp/public/js/controllers/main.js",
+		"/D/Private/Projects/NodeJs/DefaultApp/public/views/login.html",
+		"/D/Private/Projects/NodeJs/DefaultApp/public/js/services/main.js",
+		"/D/Private/Projects/NodeJs/DefaultApp/public/views/index.html",
+		"/D/Private/Projects/NodeJs/DefaultApp/public/views/user.html",
+		"/D/Private/Projects/NodeJs/DefaultApp/server.js",
+		"/D/Private/Projects/NodeJs/DefaultApp/app/routes.js",
+		"/D/Private/Projects/NodeJs/DefaultApp/config/database.js",
+		"/D/Private/Projects/NodeJs/DefaultApp/config/passport.js",
+		"/D/Private/Projects/NodeJs/DefaultApp/config/auth.js",
+		"/D/Private/Projects/NodeJs/DefaultApp/app/models/User.js",
+		"/D/Private/Projects/NodeJs/DefaultApp/package.json",
+		"/D/Private/Projects/NodeJs/testApp/server.js",
+		"/C/Users/matjazr/AppData/Roaming/npm/node_modules/mongo-express/config.js",
+		"/D/Private/Projects/NodeJs/DefaultApp/public/core.js",
+		"/D/Private/Projects/NodeJs/testApp/public/index.html",
+		"/D/Private/Projects/NodeJs/testApp/public/controllers/controller.js",
+		"/D/Work/SVNCheckouts/trunk/server/Setup/Database/CoreRGS/StoredProceduresCreate_Game.sql",
+		"/C/Program Files/Adobe/Adobe InDesign CC 2015/Scripts/startup scripts/swapImages.jsx",
+		"/C/Program Files/Adobe/Adobe InDesign CC 2015/Scripts/Scripts Panel/SwapItems.js",
+		"/D/Work/SVNCheckouts/platformUpgrade_PascualNew/server/Setup/DatabaseUpdate/GP/22355_20140908_matjazr_MobileGamesAdded.sql",
+		"/D/Work/SVNCheckouts/platformUpgrade_PascualNew/server/Setup/DatabaseUpdate/RGS/23737_20150922_simonh_JackpotUpdate.sql",
+		"/C/Users/matjazr/test/app.js",
+		"/C/Users/matjazr/test/routes/users.js",
+		"/C/Users/matjazr/test/routes/index.js",
+		"/D/Work/Server/pascual 22.09.2015/CasinoServer.log.txt",
+		"/D/Work/SVNCheckouts/platformUpgrade_PascualNew/server/Platform/Web/Admin/Web - Copy.config",
+		"/D/Work/SVNCheckouts/platformUpgrade_PascualNew/server/Platform/Web/Admin/Web.config",
+		"/D/Work/SVNCheckouts/platformUpgrade_PascualNew/server/Setup/Database/CoreRGS/StoredProceduresCreate_ProgressiveLight.sql",
+		"/C/Users/matjazr/test/bin/www",
+		"/C/Program Files/MongoDB/mongo.config",
+		"/D/Work/Server/pascual 22.09.2015/CasinoServerApp.exe.config",
+		"/C/inetpub/wwwroot/test.html",
+		"/D/Work/SVNCheckouts/platformUpgrade_PascualNew/server/Webservices/ProgressiveLight/ProgressiveLightServiceInterfaces/ProgressiveLightServiceModels.cs",
+		"/C/Users/matjazr/Downloads/BASE_Jumping_Game_PRO_edition0.6b/PRO_edition0.6beta/cfg/ccor.config",
+		"/D/Private/Dropbox/Public/WebPages/calendar/style.css",
+		"/D/Private/Dropbox/Public/WebPages/calendar/script.js",
+		"/D/Private/Dropbox/Public/WebPages/calendar/index.html",
+		"/D/Work/Server/CasinoServerApp.exe.config",
+		"/C/Users/matjazr/Desktop/slider.html",
+		"/D/Work/SVNCheckouts/platformUpgrade_PascualNew/PaymentGateway/Web/PaymentGatewayPlayer/Themes/36Win/Views/Shared/Site.Master",
+		"/C/Users/matjazr/Desktop/style.css",
+		"/C/inetpub/wwwroot/iisstart.htm",
+		"/D/Work/SVNCheckouts/platformUpgrade_PascualNew/server/Setup/DatabaseUpdate/GP/23708_20150908_matjazr_AddLobbyEmbededLinks.sql",
+		"/D/Work/SVNCheckouts/platformUpgrade_PascualNew/server/Setup/DatabaseUpdate/GP/23482_20150206_matjazr_InsertLobbyIFrameUrls.sql",
+		"/D/Work/SVNCheckouts/platformUpgrade_PascualNew/server/Setup/Database/CoreGP/RowsInsert.sql",
+		"/D/Work/SVNCheckouts/platformUpgrade_PascualNew/server/Setup/DatabaseUpdate/GP/22359_20140909_matjazr_MobilePromotionPagesAdded.sql",
+		"/D/Work/SVNCheckouts/platformUpgrade_PascualNew/server/Setup/DatabaseUpdate/GP/23687_20153108_matjazr_AddVirtualDogsPage.sql",
+		"/D/Work/SVNCheckouts/platformUpgrade_PascualNew/server/Setup/DatabaseUpdate/GP/23591_20151507_matjazr_TermsAndConditionsSupport.sql",
+		"/D/Work/SVNCheckouts/platformUpgrade_PascualNew/server/Setup/DatabaseUpdate/GP/23539_20151906_matjazr_InsertCasinosDocuments.sql",
+		"/D/Work/Server/pascual/CasinoServerApp.exe.config",
+		"/D/Private/Dropbox/Public/WebPages/kungsleden.crazylife.rocks NEW/index.html",
+		"/D/Work/Server/pascual/CasinoServer.log.txt",
+		"/D/Private/Dropbox/Public/WebPages/kungsleden.crazylife.rocks NEW/home.html",
+		"/D/Private/Dropbox/Public/WebPages/kungsleden.crazylife.rocks NEW/style.css",
+		"/D/Work/SVNCheckouts/platformUpgrade_PascualNew/server/Setup/DatabaseUpdate/GP/23375_20150508_matjazr_AddSportsBettingLinks.sql",
+		"/D/Work/Server/pascual/CasinoServerApp.exe",
+		"/D/Private/Dropbox/Public/WebPages/kungsleden.crazylife.rocks NEW/trailComplete.kml",
+		"/D/Private/Dropbox/Public/WebPages/kungsleden.crazylife.rocks NEW/map.html",
+		"/D/Private/Dropbox/Public/WebPages/kungsleden.crazylife.rocks NEW/map.json",
+		"/D/Private/Dropbox/Public/WebPages/kungsleden.crazylife.rocks NEW/js/script.js",
+		"/D/Private/Dropbox/Public/WebPages/kungsleden.crazylife.rocks NEW/story.html",
+		"/D/Private/Dropbox/Public/WebPages/kungsleden.crazylife.rocks/js/geoxml3.js",
+		"/D/Private/Dropbox/Public/WebPages/kungsleden.crazylife.rocks/trailComplete.kml",
+		"/D/Private/Dropbox/Public/WebPages/kungsleden.crazylife.rocks/map.html",
+		"/D/Private/Dropbox/Public/WebPages/kungsleden.crazylife.rocks/map.json",
+		"/C/Users/matjazr/Downloads/cta.kml",
+		"/D/Private/Dropbox/Public/WebPages/kungsleden.crazylife.rocks/trail1.kml",
+		"/D/Private/Dropbox/Public/WebPages/kungsleden.crazylife.rocks/trail.kml",
+		"/D/Private/Dropbox/Public/WebPages/kungsleden.crazylife.rocks/photos.html",
+		"/C/Users/matjazr/Dropbox/Public/WebPages/kungsleden.crazylife.rocks/map.json",
+		"/C/Users/matjazr/Dropbox/Public/WebPages/kungsleden.crazylife.rocks/map.html",
+		"/C/Users/matjazr/Dropbox/Public/WebPages/gallery.html",
+		"/C/Users/matjazr/Dropbox/Public/WebPages/index.html",
+		"/C/Users/matjazr/Dropbox/Public/WebPages/kungsleden.crazylife.rocks NEW/photos.json",
+		"/C/Users/matjazr/Dropbox/Public/WebPages/kungsleden.crazylife.rocks NEW/photos.html",
+		"/D/Private/Projects/nodeJS test/app.js",
+		"/D/Private/Projects/nodeJS test/myapp/views/index.jade",
+		"/D/Private/Projects/nodeJS test/myapp/routes/index.js",
+		"/D/Private/Projects/nodeJS test/myapp/app.js",
+		"/D/Private/Projects/nodeJS test/myapp/views/layout.jade",
+		"/D/Private/Projects/nodeJS test/server.js",
+		"/D/Private/Projects/nodeJS test/node_modules/express/index.js",
+		"/D/Work/SVN Checkouts/platformUpgrade_PascualNew/PaymentGateway/environment.config",
+		"/C/Users/matjazr/Desktop/pascual server/CasinoServerApp.exe.config",
+		"/D/Work/SVN Checkouts/platformUpgrade_PascualNew/server/Setup/DatabaseUpdate/GP/23550_20152406_matjazr_InsertMobileUrls.sql",
+		"/D/Work/SVN Checkouts/platformUpgrade_PascualNew/server/Setup/DatabaseUpdate/GP/23410_20150514_matjazr_EditSportsBettingPageAddedToAP.sql",
+		"/D/Work/SVN Checkouts/platformUpgrade_PascualNew/server/Setup/DatabaseUpdate/GP/23490_20150406_matjazr_InsertCasinosUrls.sql",
+		"/D/Work/Configs/RemoteDesktop/remote_live_connections.rdg",
+		"/D/Work/SVN Checkouts/platformUpgrade_PascualNew/server/Setup/DatabaseUpdate/GP/21901_20130520_matjazr_InsertLobbyButtonUrls.sql",
+		"/D/Work/SVN Checkouts/platformUpgrade_PascualNew/server/Setup/Database/CoreGP/RowsInsert.sql",
+		"/D/Work/Configs/RemoteDesktop/remote_live_servers.rdg",
+		"/D/Work/Configs/RemoteDesktop/remote_servers.rdg",
+		"/D/Work/SVN Checkouts/platformUpgrade_PascualNew/server/Setup/Database/CoreGP/StoredProceduresDrop.sql",
+		"/D/Work/SVN Checkouts/platformUpgrade_PascualNew/server/Setup/Database/CoreGP/StoredProceduresCreate_UserMgmt.sql",
+		"/C/Users/matjazr/Downloads/CT-AD-Profile.xml"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 90.0,
+		"where_history":
+		[
+			"D:\\Private\\Projects\\NodeJs\\DefaultApp",
+			"D:\\Work\\SVNCheckouts\\trunk\\server\\Setup\\Database",
+			"D:\\Work\\SVNCheckouts\\platformUpgrade_PascualNew\\server\\Setup\\Database",
+			"D:\\Work\\SVNCheckouts\\platformUpgrade_PascualNew\\server",
+			"D:\\Work\\SVNCheckouts\\platformUpgrade_PascualNew",
+			"",
+			"D:\\Work\\SVNCheckouts\\platformUpgrade_PascualNew\\server\\Setup\\Database",
+			"D:\\Work\\SVN Checkouts\\platformUpgrade_PascualNew\\server\\Setup\\Database",
+			"D:\\Work\\SVN Checkouts\\platformUpgrade_PascualNew\\server\\Setup\\DatabaseUpdate",
+			"D:\\Work\\SVN Checkouts\\platformUpgrade_PascualNew\\server\\Setup\\Database"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"todos.js",
+			"ContMgmt.Session",
+			"session",
+			"GetPlayersGameSession",
+			"[ProgressiveLight].[GetAllLevels]",
+			"ERROR",
+			"ProgressiveLightChangeProgressiveDataModel",
+			"ProgressiveLightService",
+			"embed=true",
+			"EmbededPromotionsUrl_EN",
+			"	<Placemark>",
+			"icon",
+			"addMarkerWithTimeout",
+			"UrlCasinoGamesPage",
+			"[Global].[Configuration]",
+			"[GetUserProfile]"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"embed=true&stopredirect=true"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "project.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 256.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
